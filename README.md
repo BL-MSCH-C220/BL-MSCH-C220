@@ -24,6 +24,8 @@
  - [Exercise 01d-Score and Moves](https://github.com/BL-MSCH-C220/Exercise-01d-Score-and-Moves)
    - [https://youtu.be/L5vKt-k9AOs](https://youtu.be/L5vKt-k9AOs) (21 minutes)
 
+---
+
 ### [Arcade Space Shooter](https://github.com/BL-MSCH-C220/02-Space-Shooter) 
 
 [demonstration playlist](https://www.youtube.com/playlist?list=PL3V-_hJz2cV_i6MrJZMu6LCOUhO67WA6z)
@@ -38,6 +40,7 @@
  - [Exercise 02d—Menu and HUD](https://github.com/BL-MSCH-C220/Exercise-02d-Menu-and-HUD)
    - [https://youtu.be/IszylhrOXk8](https://youtu.be/IszylhrOXk8) (80 minutes)
 
+---
 
 ### [Juicy Brick-Breaker](https://github.com/BL-MSCH-C220/03-Juicy-Brick-Breaker)
 
@@ -92,7 +95,10 @@
    - [Exercise-06d-3D-Particles](https://github.com/BL-MSCH-C220/Exercise-06d-3D-Particles)
      - []() ( minutes)
  --->
- ## Demos
+
+---
+
+## Demos
  <!---
    - [Star Control Demo](https://github.com/BL-MSCH-C220/Demo-Star-Control)
    - [Juicy Brick Breaker Demo](https://github.com/BL-MSCH-C220/Demo-Juicy-Breakout)
@@ -103,6 +109,9 @@
    - [Godot Shader Demo](https://github.com/BL-MSCH-C220/Demo-Shaders)
    - [Procedural Generation Demos](https://github.com/BL-MSCH-C220/Demo-Procedural-Generation)
  --->
+
+---
+
  ## Final Group Projects from Previous Semesters
  - [Fall 2022: "Time for Dinner"](https://github.com/BL-MSCH-C220/Final-Projects-F22)
  - [Spring 2022: "Time Crunch"](https://github.com/BL-MSCH-C220/Final-Projects-S22)

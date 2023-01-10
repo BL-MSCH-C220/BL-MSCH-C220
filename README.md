@@ -31,11 +31,11 @@
 [Demonstration playlist](https://www.youtube.com/playlist?list=PL3V-_hJz2cV_i6MrJZMu6LCOUhO67WA6z)
 
 #### Exercises
- - [Exercise 02a—Weapons](https://github.com/BL-MSCH-C220/Exercise-02a-Weapons)
+ - [Exercise 02a—Ship](https://github.com/BL-MSCH-C220/Exercise-02a-Ship)
    - [Demonstration](https://youtu.be/rVAZ---1Aus) (94 minutes)
- - [Exercise 02b—Mouse and Keyboard](https://github.com/BL-MSCH-C220/Exercise-02b-Mouse-and-Keyboard)
+ - [Exercise 02b—Bullets and Asteroids](https://github.com/BL-MSCH-C220/Exercise-02b-Bullets-and-Asteroids)
    - [Demonstration](https://youtu.be/21mEssMhOhQ) (72 minutes)
- - [Exercise 02c—Asteroids and Enemies](https://github.com/BL-MSCH-C220/Exercise-02c-Asteroids-and-Enemies)
+ - [Exercise 02c—Explosions and Enemy](https://github.com/BL-MSCH-C220/Exercise-02c-Explosions-and-Enemy)
    - [Demonstration](https://youtu.be/wsiN_nkF3Nw) (96 minutes)
  - [Exercise 02d—Menu and HUD](https://github.com/BL-MSCH-C220/Exercise-02d-Menu-and-HUD)
    - [Demonstration](https://youtu.be/IszylhrOXk8) (80 minutes)

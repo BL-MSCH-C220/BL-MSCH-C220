@@ -53,8 +53,13 @@
    - [Demonstration](https://youtu.be/gfhskDcihjg) (39 minutes)
  - [Exercise-03d-Shaders](https://github.com/BL-MSCH-C220/Exercise-03d-Shaders)
    - [Demonstration](https://youtu.be/6hrpde-AzX8) (39 minutes)
- - [2D Platformer](https://github.com/BL-MSCH-C220/04-2D-Platformer) 
+
+---
+
+### [2D Platformer](https://github.com/BL-MSCH-C220/04-2D-Platformer) 
    - [2D-Platformer-Character](https://github.com/BL-MSCH-C220/2D-Platformer-Character)
+
+#### Exercises
    - [Exercise-04b-State-Machine](https://github.com/BL-MSCH-C220/Exercise-04b-State-Machine)
      - [Demonstration](https://www.youtube.com/watch?v=d9I96qieMP8) (12 minutes)
    - [Exercise-04c-Enemies](https://github.com/BL-MSCH-C220/Exercise-04c-Enemies)

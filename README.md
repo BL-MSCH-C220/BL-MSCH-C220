@@ -63,7 +63,12 @@
      - [Demonstration](https://youtu.be/uCh7VhG-yr4) (21 minutes)
    - [Optional-Exercise-04d-Save-and-Load](https://github.com/BL-MSCH-C220/Optional-Exercise-04d-Save-and-Load)
      - [Demonstration](https://youtu.be/WSBgQ3PBmbA) (19 minutes)
- - [3D FPS](https://github.com/BL-MSCH-C220/05-3D-FPS)
+ 
+---
+
+### [3D FPS](https://github.com/BL-MSCH-C220/05-3D-FPS)
+
+#### Exercises
    - [Project 05 Demo](https://github.com/BL-MSCH-C220/Project-05-Demo)
    - [Exercise-05a-FPS](https://github.com/BL-MSCH-C220/Exercise-05a-FPS)
      - [Demonstration](https://www.youtube.com/watch?v=0sw4W00UjdY) (25 minutes)
@@ -75,8 +80,13 @@
      - [Demonstration](https://youtu.be/i13v3jhP3qY) (21 minutes)
    - [Exercise-05d-Networked-Game](https://github.com/BL-MSCH-C220/Exercise-05d-Networked-Game)
      - [Demonstration](https://youtu.be/QlKtFpAqYTw) (28 minutes)
- - [3D RPG](https://github.com/BL-MSCH-C220/06-3D-RPG)
+
+---
+
+### [3D RPG](https://github.com/BL-MSCH-C220/06-3D-RPG)
    - [3D-Character](https://github.com/BL-MSCH-C220/3D-Character)
+
+#### Exercises
    - [Exercise-06a-Create-a-Model](https://github.com/BL-MSCH-C220/Exercise-06a-Create-a-Model)
      - [Follows the Blender Guru Beginner Tutorial](https://www.youtube.com/watch?v=nIoXOplUvAw&list=PLjEaoINr3zgFX8ZsChQVQsuDSjEqdWMAD)
    - [Exercise-06b-Animation](https://github.com/BL-MSCH-C220/Exercise-06b-Animation)
